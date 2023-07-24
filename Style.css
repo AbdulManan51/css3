@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(170, 241, 218);
+   
+}
+a,h2,p,img{
+    text-align: center;
+}
+p.b{
+    background-color: rgb(220, 20, 60);
+    text-align: center;
+    font-size: x-large;
+}
+h2:hover{
+text-transform: uppercase;
+color: rgb(5, 243, 252);
+font-style: italic;
+font-size: xx-large;
+background-color: rgb(8, 8, 8);
+
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
